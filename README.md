@@ -22,5 +22,6 @@ as I mentioned for using function approximation we have to represent our state w
 
 ## how to run code
 - clone [this repository](https://github.com/MeepMoop/tilecoding).
+- clone my repository.
 - run `mountain_car` notebook.
 - have fun 😉
