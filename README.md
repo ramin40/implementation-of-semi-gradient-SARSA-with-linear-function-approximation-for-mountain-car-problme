@@ -19,5 +19,5 @@ as I mentioned for using function approximation we have to represent our state w
 
 # how to run code
 - clone [this repository](https://github.com/MeepMoop/tilecoding).
-- run `semi-gradient sarsa` notebook.
+- run `mountain_car` notebook.
 - have fun 😉
